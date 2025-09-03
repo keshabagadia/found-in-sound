@@ -25,10 +25,8 @@ A simple Unity prototype about **unlocking phonemes** through word-building.
 
 ## 📝 Next Steps
 - Improve UI feedback when phonemes are reused.  
-- Add audio cues for each unlocked phoneme.  
-- Clean up word list (remove proper nouns/apostrophes).  
-- Implement bonus wild consonants.  
-- Add Game Over and high score conditions.  
+- Iterate on single playable loop for game balance.
+- Create game levels. 
 
 ---
 
